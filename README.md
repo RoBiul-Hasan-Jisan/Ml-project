@@ -21,6 +21,8 @@ It recommends movies based on a movie title or keywords/genres using content-bas
 
 ![Movie Recommender Screenshot](image.png)
 
+![image](https://github.com/user-attachments/assets/5e658186-f77c-4126-a497-859ef5d8d31a)
+
 ---
 
 ## Getting Started
